@@ -1,10 +1,13 @@
 public class getToString {
 
     public static void main(String[] args) {
-
+        
     }
 
     public static int add(int num) {
+        // Для чего здесь параметр num ?
+        // Ты же его нигде не используешь
+        
         String str1 = "This is exercise 1";
         String str2 = "This is Exercise 1";
 
